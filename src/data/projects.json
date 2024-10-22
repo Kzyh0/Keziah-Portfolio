@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Healthy habits",
+    "imageSrc": "projects/proj2.gif",
+    "description": "This project has some features these are online appointments and health tracker.",
+    "skills": ["Figma", "Html", "Css"],
+        "demo": "https://app.storylane.io/share/zci1pa3hvzr9" ,
+    "source": "https://www.figma.com/proto/mpblm4wW34DjChnpYf06RC/ITPD2?node-id=1-2&node-type=canvas&t=1i5gPXB1J8zqADn1-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1"
+  },
+  {
+    "title": "E-learning App",
+    "imageSrc": "projects/projb.gif",
+    "description": "This is a project made to the students and teachers for their convinience and connect thru online.",
+    "skills": ["Figma", "Html", "Css"],
+    "demo": "https://www.figma.com/proto/RkRAnH09UPMlqI50HN5beE/WIREFRAME?node-id=381-90&starting-point-node-id=381%3A90",
+    "source": "https://github.com/aleahpalma/SCHOOLAPP"
+  },
+  {
+    "title": "Awesome Todos",
+    "imageSrc": "projects/awe.gif",
+    "description": "Awesome todos is a full dev website that get you updated to your tasks everyday.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://aweome-todoss-app.onrender.com",
+    "source": "https://github.com/Kzyh0/keziah"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "role": "UI Designer",
+    "organisation": "At Dawn's Cafe Website",
+    "startDate": "Oct, 2022",
+    "endDate": "Nov, 2022",
+    "experiences": ["Worked on About page", "Stands as an Assistant Leader"],
+    "imageSrc": "history/Dawn.png"
+  },
+  {
+    "role": "Leader",
+    "organisation": "E-learning App",
+    "startDate": "Sept, 2023",
+    "endDate": "Nov, 2023",
+    "experiences": ["Assists when an error is encountered", "Came up with the idea"],
+    "imageSrc": "history/logo.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Healthy Habits",
+    "startDate": "Feb, 2024",
+    "endDate": "Mar, 2024",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/h1.png"
+  }
+]
